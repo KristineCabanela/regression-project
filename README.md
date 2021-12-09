@@ -1,7 +1,4 @@
-# regression-project
-
-
-### About the Project
+# About the Project
 
 ## Project Goals
 
@@ -10,8 +7,13 @@ My goal is to identify key drivers for tax value for single family properties
 ## Project Description
 
 
+
 ### Initial Questions
 
+- Do single family properties that have less than 1
+- 
+- 
+- 
 
 ### Data Dictionary
 
@@ -36,3 +38,12 @@ My goal is to identify key drivers for tax value for single family properties
 - Document conclusions, takeaways, and next steps in the Final Report Notebook.
 
 ### Plan
+
+Plan - Acquire - Prepare - Explore - Model - Deliver
+
+- Wrangle
+    - Acquire data by using a SQL query to Zillow table in the mySQL database.
+    - Prepare data by 
+    - We will create a function that we can reference later to acquire and prepare the data by storing the function in a file name wrangle.py
+- Explore
+- Modeling
